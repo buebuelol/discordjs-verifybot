@@ -10,6 +10,6 @@ Verify bot for discord using discord-buttons.
 5. start bot with node index.js command
 6. type yourprefix + setup command on chat to setup verify message
 
-if any problems contact with me on discord: bb.#9999
+if any problems/errors contact with me on discord: bb.#9999
 
 ![image](https://user-images.githubusercontent.com/66698690/120119297-36e2fc80-c197-11eb-8894-b98ca5afe025.png)
