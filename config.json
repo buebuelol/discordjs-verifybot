@@ -1,0 +1,11 @@
+{    
+    "discord":{
+        "token":"",
+        "prefix":"",
+        "verifiedroleid":"",
+        "rolewithpermissionsid":"",
+        "logschannelid":"",
+        "verifychannelid":"",
+        "serverid":""
+    }
+    }
