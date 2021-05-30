@@ -4,7 +4,7 @@ Verify bot for discord using discord-buttons.
 
 
 1. configure config.json file
-2. go to your application > bot and select all Privileged Gateway Intents options >> https://discord.com/developers/applications/
+2. go to your application > bot and select all Privileged Gateway Intents options https://discord.com/developers/applications/
 3. install modules with npm i --save command
 4. if you not have node.js you must install this on https://nodejs.org/en/
 5. start bot with node index.js command
