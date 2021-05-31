@@ -48,7 +48,6 @@ client.on("message", (message) => {
     }
     let verifybutton = new button.MessageButton().setStyle("gray").setLabel("Verify").setID("verifybutton")
     let verifychannel = client.channels.cache.get(config.discord.verifychannelid)
-    let verifyembed = new Discord.MessageEmbed().setAuthor("[VERIFY BOT]").setColor("#00fbff").setTimestamp()
     let myembed = new Discord.MessageEmbed().setDescription('``Verify yourself with clicking button below!``').setColor("BLUE");
     message.delete()
     verifychannel.send({ button: verifybutton, embed: myembed });
