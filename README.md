@@ -1,5 +1,5 @@
 # discordjs-verifybot
-Verify bot for discord using discord-buttons.
+Bot maded with discord-buttons@2.4.1 module
 
 
 
