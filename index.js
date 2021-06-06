@@ -23,6 +23,7 @@ function checksettings(){
         console.error("[VERIFY BOT] Verified role ID is not defined!")
         client.destroy()
         return
+        
     } else if(!config.discord.rolewithpermissionsid) {
         console.error("[VERIFY BOT] Role with Permissions ID is not defined!")
         client.destroy()
